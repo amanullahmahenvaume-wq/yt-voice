@@ -1,0 +1,10 @@
+{
+  "job_id": "ancientdailylife-1793576011-p0",
+  "channel_id": "ancientdailylife",
+  "status": "partial_failed",
+  "total_shards": 19,
+  "failed_shards": [
+    2
+  ],
+  "checked_at": "2026-11-02T00:01:18Z"
+}
