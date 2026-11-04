@@ -1,0 +1,10 @@
+{
+  "job_id": "aiworkflowsolo-1793793668-p2",
+  "channel_id": "aiworkflowsolo",
+  "status": "partial_failed",
+  "total_shards": 19,
+  "failed_shards": [
+    12
+  ],
+  "checked_at": "2026-11-04T12:51:19Z"
+}
