@@ -1,0 +1,14 @@
+{
+  "job_id": "midnightkarma-1793751201-p0",
+  "channel_id": "midnightkarma",
+  "status": "success",
+  "total_shards": 19,
+  "empty_shards": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "generation_seconds": 970.2,
+  "checked_at": "2026-11-04T00:33:10Z"
+}
